@@ -1,1 +1,22 @@
-# I-am-Rich
+# 💎 I Am Rich
+
+**I Am Rich** é um app conceitual para iOS que simboliza luxo e exclusividade. Ele exibe uma joia na tela e uma mensagem para lembrar que você é rico.
+
+## 📱 Funcionalidade
+
+- Exibe uma joia brilhante.
+- Mostra uma mensagem de riqueza.
+- Nada mais. E está tudo bem.
+
+## 🛠️ Tecnologias
+
+- SwiftUI
+- iOS 15+
+- Xcode 14+
+
+## 🚀 Como rodar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/IAmRich.git
+   ```
